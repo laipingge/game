@@ -1,2 +1,7 @@
 华山剑法，天下第一
+<<<<<<< HEAD
 shabi ba ni jflajldjs
+=======
+我是令狐冲，我比较厉害一点吧
+@@@@@@@@@
+>>>>>>> origin/master
